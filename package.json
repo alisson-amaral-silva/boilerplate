@@ -25,7 +25,7 @@
     ]
   },
   "dependencies": {
-    "@storybook/cli": "^6.1.15",
+    "@storybook/cli": "^6.1.17",
     "next": "10.0.5",
     "next-pwa": "^5.0.4",
     "react": "17.0.1",
