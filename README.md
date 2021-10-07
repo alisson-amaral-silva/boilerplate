@@ -14,13 +14,17 @@ Este projeto utiliza de inumeras coisas, tais como:
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
 
-## Getting Started
+## Primeiros passos
 
-Primeiramente, rode o ambiente de desenvolvimento:
+Primeiramente instale as dependências e rode o ambiente de desenvolvimento:
 
 ```bash
+yarn
+# ou
+npm i
+# e
 npm run dev
-# or
+# ou
 yarn dev
 ```
 
