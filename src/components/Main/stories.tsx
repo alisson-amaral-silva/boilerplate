@@ -11,6 +11,6 @@ export const Basic: Story = (args) => <Main {...args} />
 export const ComponentWithChangedValues: Story = (args) => <Main {...args} />
 
 ComponentWithChangedValues.args = {
-  title: 'React Diferenciado',
-  description: 'Discription'
+  title: 'Boilerplate',
+  description: 'Description'
 }
