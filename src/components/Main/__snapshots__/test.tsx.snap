@@ -55,7 +55,7 @@ exports[`<Main /> should render the heading 1`] = `
   <h1
     class="c2"
   >
-    React Avançado
+    Boilerplate
   </h1>
   <h2
     class="c3"
@@ -68,4 +68,4 @@ exports[`<Main /> should render the heading 1`] = `
     src="/img/hero-illustration.svg"
   />
 </main>
-`
+`;
